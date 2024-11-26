@@ -5,14 +5,14 @@
 Me chamo Kauê Raian de Oliveira, tenho 21 anos e sou natural de Porto Velho. Concluí o ensino técnico na Universidade Federal de Rondônia, incluso com alguns cursos técnico com pouco mais de 200 horas. Atualmente, Curso Sistemas de Informação pela Estácio. Sou um amante por tecnologia e sempre que possível compartilho meu conhecimento através de conversas no ambiente de trabalho ou na roda de amigos.
 
 <p align="left">
-    <a href="https://github.com/srodrigo28?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Kauerito?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/srodrigo28?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/srodrigo28?tab=followers">
+    <a href="https://github.com/Kauerito?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
